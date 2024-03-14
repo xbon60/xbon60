@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My Name is axel, i'm a student and i'm french. 
+
+i code with python 
 <!--
 **xbon60/xbon60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
