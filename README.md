@@ -2,7 +2,7 @@
 
 My Name is axel, i'm a student and i'm french. 
 
-i code with python 
+i code with python and JavaScript
 <!--
 **xbon60/xbon60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
